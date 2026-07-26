@@ -1,6 +1,5 @@
 node_modules/
 dist/
-.env
 reference/
 *.local
 
@@ -9,5 +8,9 @@ tsconfig.tsbuildinfo
 *.tsbuildinfo
 
 # IDE / agent local config
-.vscode/
 .kiro/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
